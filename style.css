@@ -117,12 +117,12 @@ button:hover {
 
 .surprise h3 {
   margin: 8px 0;
-  color: #ffd8f5;
+  color:pink;
 }
 
 .surprise p {
   line-height: 1.6;
-  opacity: .9;
+  color:red;
 }
 
 .balloon {
